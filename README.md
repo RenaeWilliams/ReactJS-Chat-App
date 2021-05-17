@@ -3,3 +3,8 @@
 
 Chat/messenger web application.
 Built with ReactJS and Chat Engine API.
+
+Try it out
+
+Username: rene 
+Password: ohmygod1
