@@ -4,7 +4,6 @@ import Login from './components/Login'
 import './App.css'
 
 const App = () => {
-    if(!localStorage.getItem('username')) return <Login />
 
     return (
         <ChatEngine 
